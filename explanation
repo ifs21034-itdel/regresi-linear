@@ -1,0 +1,6 @@
+  
+Linear regression is a way to explain the relationship between a dependent variable and one or more explanatory variables
+using a straight line. It is a special case of regression analysis.
+it could be used for the weather forcasting, reduction or prediction.
+when the additional value of X is given without its companied value Y(dependant of X) then this regression model can be used 
+to make prediction of value Y.
